@@ -67,9 +67,7 @@ const Footer = () => {
               <svg className="w-6 h-6" fill="currentColor" viewBox="0 0 24 24"><path d="M...Z" /></svg>
             </a>
           </div>
-          <p className="text-gray-400 mt-4">
-            &copy; 2024 AlumniStudent. All rights reserved.
-          </p>
+          
         </div>
       </div>
     </footer>
